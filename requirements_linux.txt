@@ -9,7 +9,7 @@ PySide6_Essentials==6.9.1
 shiboken6==6.9.1
 # ↑↑↑ここまで
 requests==2.34.2
-openai==3.35.1
+openai>=3.45.0,<4
 google-genai==2.32.0
 anthropic==1.15.0
 gtts==2.5.1
